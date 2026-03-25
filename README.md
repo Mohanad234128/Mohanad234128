@@ -58,6 +58,34 @@ A focused data analysis mini-project utilizing a chocolate sales dataset to unco
 
 ---
 
+## 🏆 Certifications
+
+### 🎓 AMIT Learning
+| Certificate | Issuer |
+|-------------|--------|
+| Data Analysis Diploma | AMIT |
+
+### 📊 DataCamp
+| Certificate | Issuer |
+|-------------|--------|
+| Introduction to Python | DataCamp |
+| Introduction to R | DataCamp |
+| Introduction to SQL | DataCamp |
+| Intermediate SQL | DataCamp |
+| Joining Data in SQL | DataCamp |
+| Introduction to Excel | DataCamp |
+| Data Analysis in Excel | DataCamp |
+| Introduction to Statistics in Python | DataCamp |
+| Introduction to ChatGPT | DataCamp |
+| AI Ethics | DataCamp |
+
+### 🌟 MaharaTech
+| Certificate | Issuer |
+|-------------|--------|
+| Python Programming Basics | MaharaTech |
+
+---
+
 ## 📊 GitHub Stats
 
 ![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanad234128&show_icons=true&theme=tokyonight)
