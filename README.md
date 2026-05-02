@@ -1,73 +1,92 @@
-# Hi there, I'm Mohanad Ibrahim Elsayed! 👋
+<div align="center">
 
-Welcome to my GitHub! I'm a passionate **Business Analytics** student currently studying at the **Egyptian Russian University**. I love diving deep into data, building interactive dashboards, and uncovering actionable business insights through analytics and machine learning.
+# Hi, I'm Mohanad Ibrahim Elsayed! 👋
+### Business Analytics Student | Data Analyst | ML Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-ibrahim-business-analytics)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohanadhonda)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanad.elsehrawy@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Business Analytics student with a strong focus on **data science and programming**
-- 💡 Primary interests: **data analysis, machine learning, data cleaning, and data visualization**
-- 🚀 Practical experience leading data projects end-to-end, including **predictive modeling** and **dashboard creation**
-- 🌐 Solid background in **computer hardware, networks, and operating systems** troubleshooting
-- 🎯 Continuously growing my skills and connecting with tech communities *(e.g. Microsoft Student Ambassadors Club)*
-- 🎮 Fun fact: When I'm not analyzing data or fixing PC issues, you might find me playing **Assassin's Creed!**
+- 🎓 **Business Analytics** student at the **Egyptian Russian University**
+- 📊 Passionate about **data analysis, machine learning & data visualization**
+- 🚀 Experienced in leading end-to-end data projects — from cleaning to dashboards
+- 🤝 Active member of the **Microsoft Student Ambassadors Club**
+- 🎮 Fun fact: When I'm not doing data stuff, I'm playing **Assassin's Creed!**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Tools
 
-### 💻 Programming Languages
+**Programming**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-### 📊 Data Analytics & BI Tools
+**Analytics & BI**
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🧠 Core Competencies
-- Machine Learning
-- Data Visualization
-- Database Management
-- Data Cleaning & Wrangling
-
-### 🖥️ IT & Infrastructure
-- Computer Networks
-- Operating Systems
-- Hardware Troubleshooting
+**Core Competencies:** Machine Learning · Data Visualization · Database Design · Data Cleaning & Wrangling
 
 ---
 
 ## 📂 Featured Projects
 
-### 🚗 Automotive Data Regression
-> **Role:** Team Leader
+### 🏪 Sample Superstore Analysis
+> End-to-end data project built on 9,994 rows of retail data
 
-Led an end-to-end data analysis and predictive regression modeling project on a comprehensive car dataset. Handled data cleaning, exploration, and the application of regression models to predict outcomes.
+- Designed a **Star Schema** database (1 Fact + 6 Dimension tables) in SQL Server
+- Wrote **10 analytical SQL queries** covering CTEs, Window Functions & Subqueries
+- Built an interactive **Power BI dashboard** tracking sales, profit & customer KPIs
+
+🔗 [View Project](https://github.com/Mohanad234128/Project_MSE_Sample_Superstore) · `SQL Server` `Power BI` `T-SQL`
 
 ---
 
-### 🛒 Maven Market Analysis
-Developed a comprehensive, interactive **Power BI dashboard** for *Maven Market*. Focused on tracking KPIs, analyzing market trends, and visualizing complex data to support data-driven decision-making.
+### 🚗 Automotive Data Regression
+> **Role: Team Leader**
+
+- Led end-to-end data analysis and predictive regression modeling on a car dataset
+- Handled data cleaning, EDA, and applied regression models to predict outcomes
+
+`Python` `Machine Learning` `Regression`
+
+---
+
+### 📊 Maven Market Analysis
+
+- Built a comprehensive interactive **Power BI dashboard** for Maven Market
+- Tracked KPIs, analyzed market trends & supported data-driven decision-making
+
+`Power BI` `Data Visualization`
 
 ---
 
 ### 🍫 Chocolate Sales Analysis
-A focused data analysis mini-project utilizing a chocolate sales dataset to uncover sales patterns and practice hands-on data manipulation and reporting techniques.
+
+- Uncovered sales patterns and practiced hands-on data manipulation & reporting
+
+`Excel` `Data Analysis`
 
 ---
 
 ## 🏆 Certifications
 
-### 🎓 AMIT Learning
-| Certificate | Issuer |
-|-------------|--------|
-| Data Analysis Diploma | AMIT |
+<details>
+<summary><b>📋 View All Certifications (10+)</b></summary>
 
-### 📊 DataCamp
 | Certificate | Issuer |
-|-------------|--------|
+|---|---|
+| Data Analysis Diploma | AMIT Learning |
 | Introduction to Python | DataCamp |
 | Introduction to R | DataCamp |
 | Introduction to SQL | DataCamp |
@@ -76,28 +95,22 @@ A focused data analysis mini-project utilizing a chocolate sales dataset to unco
 | Introduction to Excel | DataCamp |
 | Data Analysis in Excel | DataCamp |
 | Introduction to Statistics in Python | DataCamp |
-
-
-### 🌟 MaharaTech
-| Certificate | Issuer |
-|-------------|--------|
 | Python Programming Basics | MaharaTech |
 
----
-
-## 📊 GitHub Stats
-
-![Mohanad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohanad234128&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanad234128&layout=compact&theme=tokyonight)
+</details>
 
 ---
 
-## 📫 Let's Connect!
+## 🌱 Currently Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-ibrahim-business-analytics)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohanadhonda)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanad.elsehrawy@gmail.com)
+- Advanced SQL (Window Functions & Query Optimization)
+- Machine Learning with Python (Scikit-learn)
+- DAX for Power BI
 
 ---
 
-⭐️ *Feel free to explore my repositories and don't forget to star what you like!*
+<div align="center">
+
+⭐️ *Feel free to explore my repos and star what you like!*
+
+</div>
