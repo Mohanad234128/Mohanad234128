@@ -76,8 +76,7 @@ A focused data analysis mini-project utilizing a chocolate sales dataset to unco
 | Introduction to Excel | DataCamp |
 | Data Analysis in Excel | DataCamp |
 | Introduction to Statistics in Python | DataCamp |
-| Introduction to ChatGPT | DataCamp |
-| AI Ethics | DataCamp |
+
 
 ### 🌟 MaharaTech
 | Certificate | Issuer |
