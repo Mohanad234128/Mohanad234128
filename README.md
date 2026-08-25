@@ -390,17 +390,22 @@ Production AI Systems
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mohanad234128&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170"/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohanad234128&theme=github_dark"
+  width="95%"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanad234128&layout=compact&theme=transparent&hide_border=true" height="170"/>
+<br><br>
 
-</div>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohanad234128&theme=github_dark"
+  width="45%"
+/>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohanad234128&theme=transparent&hide_border=true" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohanad234128&theme=github_dark"
+  width="45%"
+/>
 
 </div>
 
