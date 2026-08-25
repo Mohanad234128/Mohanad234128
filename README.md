@@ -16,7 +16,7 @@
 <a href="https://github.com/Mohanad234128?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-10+-36BCF7?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="www.linkedin.com/in/mohanad-ibrahim-business-analytics">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
