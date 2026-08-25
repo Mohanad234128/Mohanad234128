@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:20BEFF&height=200&section=header&text=Mohanad%20Ibrahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20Analytics%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions...;Python+%7C+SQL+%7C+R+%7C+Power+BI;Building+ML+models+that+actually+ship;Business+Analytics+Student+%40+ERU" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions+making;Python+%7C+SQL+%7C+R+%7C+Power+BI;Building+ML+models+that+actually+ship;Business+Analytics+Student+%40+ERU" alt="Typing SVG" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohanad-ibrahim-business-analytics)
